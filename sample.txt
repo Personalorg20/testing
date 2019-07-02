@@ -1,1 +1,2 @@
-hi this is for testing a vi editor 
+hi this is for testing a vi editor
+second line entered for testing featuer branch 
